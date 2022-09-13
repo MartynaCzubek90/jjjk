@@ -1,0 +1,100 @@
+{
+  "id": "fgasikutgasurebuifgsiuafgisua",
+  "app": {
+    "app_id": "f1430206647be69f2d7c68fe6b578ec6Z6",
+    "app_bundle_id": "com.bestaix.scannerlite",
+    "app_name": "Text Scanner",
+    "store_url": "https://play.google.com/store/apps/details?id=com.bestai.TextScanner",
+    "app_category": "IAB20"
+  },
+  "adslot": {
+    "adslot_id": "171011",
+    "instl": 0,
+    "native": {
+      "plcmttype": 1,
+      "assets": [
+        {
+          "id": 1,
+          "required": 1,
+          "title": {
+            "len": 256
+          }
+        },
+        {
+          "id": 2,
+          "required": 1,
+          "img": {
+            "type": 1,
+            "width": 80,
+            "height": 80
+          }
+        },
+        {
+          "id": 3,
+          "required": 1,
+          "img": {
+            "type": 3,
+            "width": 1200,
+            "height": 627
+          }
+        },
+        {
+          "id": 4,
+          "required": 1,
+          "data": {
+            "type": 2,
+            "len": 256
+          }
+        }
+      ]
+    }
+  },
+  "user": {
+    "user_id": "dsygfyad",
+    "ip": "106.38.48.52",
+    "gender": 1
+  },
+  "device": {
+    "user_agent": "Mozilla/5.0 (Linux; U; Android 2.3.6; it-it; GT-S5570I Build/GINGERBREAD) AppleWebKit/533.1 (KHTML, like Gecko) Version/4.0 Mobile Safari/533.1 (Mobile; afma-sdk-a-v6.1.0),gzip(gfe)",
+    "device_id": [
+      {
+        "type": 1,
+        "id": "2536643785678345673845"
+      },
+      {
+        "type": 2,
+        "id": "5C-FF-35-0B-95-B5"
+      }
+    ],
+    "advertising_id": {
+      "type": 4,
+      "id": "dfc59c16-4435-48cb-98a9-9bdd06108077"
+    },
+    "geo": {
+        "lat": 27.3333,
+        "lon": 88.6167,
+        "country": "IND"
+    },
+    "device_type": 1,
+    "os": 2,
+    "language": "CN",
+    "os_version": "9.0.1",
+    "brand": "xiaomi",
+    "model": "hongmi",
+    "screen_width": 640,
+    "screen_height": 1136,
+    "screen_density": 326,
+    "carrier_id": "460-000",
+    "wireless_network_type": 4
+  },
+  "regs": {
+    "coppa": 0,
+    "gdpr": 0,
+    "us_privacy": "1YN-"
+  },
+  "bcat": ["IAB8", "IAB26", "IAB9"],
+  "badv": ["explorescientificusa.com","www.explorescientificusa.com"],
+  "tmax": 200,
+  "secure": 1
+}
+
